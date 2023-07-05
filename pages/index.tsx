@@ -125,8 +125,48 @@ export default function Home() {
       <Layout>
         <div className="mx-auto flex flex-col gap-4">
           <h1 className="text-2xl font-bold leading-[1.1] tracking-tighter text-center">
-            Chat With Your Docs
+            Chat With NCERT
           </h1>
+          <div>
+
+          <select>
+
+            <option value="fruit">8</option>
+
+            <option value="vegetable">9</option>
+
+            <option value="meat">10</option>
+
+          </select>
+
+        </div>
+        <div>
+
+        <select>
+
+          <option value="Science">Science</option>
+
+          <option value="Social Science">Social Science</option>
+
+          <option value="English">English</option>
+
+        </select>
+
+        </div>
+
+        <div>
+
+        <select>
+
+          <option value="Science">Chapter 1</option>
+
+          <option value="Social Science">Chapter 2</option>
+
+          <option value="English">Chapter 3</option>
+
+        </select>
+
+        </div>
           <main className={styles.main}>
             <div className={styles.cloud}>
               <div ref={messageListRef} className={styles.messagelist}>
@@ -262,7 +302,7 @@ export default function Home() {
         </div>
         <footer className="m-auto p-4">
           <a href="https://twitter.com/mayowaoshin">
-            Powered by LangChainAI. Demo built by Mayo (Twitter: @mayowaoshin).
+            {/* Powered by LangChainAI. Demo built by Mayo (Twitter: @mayowaoshin). */}
           </a>
         </footer>
       </Layout>
