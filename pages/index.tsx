@@ -1,4 +1,4 @@
-import { useRef, useState, useEffect } from 'react';
+import React, { useRef, useState, useEffect } from 'react';
 import Layout from '@/components/layout';
 import styles from '@/styles/Home.module.css';
 import { Message } from '@/types/chat';
@@ -6,6 +6,7 @@ import Image from 'next/image';
 import ReactMarkdown from 'react-markdown';
 import LoadingDots from '@/components/ui/LoadingDots';
 import { Document } from 'langchain/document';
+import Dropdown from './dropdown';
 import {
   Accordion,
   AccordionContent,
@@ -128,44 +129,7 @@ export default function Home() {
             Chat With NCERT
           </h1>
           <div>
-
-          <select>
-
-            <option value="fruit">8</option>
-
-            <option value="vegetable">9</option>
-
-            <option value="meat">10</option>
-
-          </select>
-
-        </div>
-        <div>
-
-        <select>
-
-          <option value="Science">Science</option>
-
-          <option value="Social Science">Social Science</option>
-
-          <option value="English">English</option>
-
-        </select>
-
-        </div>
-
-        <div>
-
-        <select>
-
-          <option value="Science">Chapter 1</option>
-
-          <option value="Social Science">Chapter 2</option>
-
-          <option value="English">Chapter 3</option>
-
-        </select>
-
+          <Dropdown></Dropdown>
         </div>
           <main className={styles.main}>
             <div className={styles.cloud}>
