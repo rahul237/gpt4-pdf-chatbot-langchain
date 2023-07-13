@@ -7,6 +7,7 @@ import ReactMarkdown from 'react-markdown';
 import LoadingDots from '@/components/ui/LoadingDots';
 import { Document } from 'langchain/document';
 import Dropdown from './dropdown';
+import DropdownComponent from './dropdown_component';
 import {
   Accordion,
   AccordionContent,
@@ -129,7 +130,8 @@ export default function Home() {
             Chat With NCERT
           </h1>
           <div>
-          <Dropdown></Dropdown>
+          {/* <Dropdown></Dropdown> */}
+          <DropdownComponent></DropdownComponent>
         </div>
           <main className={styles.main}>
             <div className={styles.cloud}>
