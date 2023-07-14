@@ -8,20 +8,39 @@ function DropdownComponent() {
     const [selectedClass, setSelectedClass] = useState(null);
     const [selectedSubject, setSelectedSubject] = useState(null);
     const [selectedTitle, setSelectedTitle] = useState(null);
+    const [selectedChapter, setSelectedChapter] = useState(null);
+
 
     const handleClassChange = (event) => {
         setSelectedClass(event.target.value);
         setSelectedSubject(null);
         setSelectedTitle(null);
+        setSelectedChapter(null);
+
     };
 
     const handleSubjectChange = (event) => {
         setSelectedSubject(event.target.value);
         setSelectedTitle(null);
+        setSelectedChapter(null);
+
     };
 
     const handleTitleChange = (event) => {
         setSelectedTitle(event.target.value);
+        setSelectedChapter(null);
+
+    };
+
+    const handleChapterChange = (event) => {    
+        setSelectedChapter(event.target.value);
+    };
+
+    const onSubmit = (event) => {
+        console.log(selectedClass);
+        console.log(selectedSubject);
+        console.log(selectedTitle);
+        console.log(selectedChapter);
     };
 
     return (
@@ -46,11 +65,13 @@ function DropdownComponent() {
             )}
 
             {selectedTitle && (
-                <select>
+                <select onChange={handleChapterChange}>
                     <option value="">Select chapter</option>
                     {data[selectedClass][selectedSubject].find(book => book.title === selectedTitle).chapters.map((chapter, index) => <option key={index} value={chapter}>{chapter}</option>)}
                 </select>
             )}
+
+            <button onClick={onSubmit}>Submit</button>
         </div>
     );
 }
