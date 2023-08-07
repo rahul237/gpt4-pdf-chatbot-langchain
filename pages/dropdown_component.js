@@ -2,13 +2,14 @@ import React, { useState } from 'react';
 import data from '../nested_data/nested_data_with_chapters.json';
 
 
-function DropdownComponent() {
+function DropdownComponent(props) {
     // const data = { /* Your JSON data here */ };
 
     const [selectedClass, setSelectedClass] = useState(null);
     const [selectedSubject, setSelectedSubject] = useState(null);
     const [selectedTitle, setSelectedTitle] = useState(null);
     const [selectedChapter, setSelectedChapter] = useState(null);
+
 
 
     const handleClassChange = (event) => {
@@ -41,6 +42,8 @@ function DropdownComponent() {
         console.log(selectedSubject);
         console.log(selectedTitle);
         console.log(selectedChapter);
+        props.onNamespaceChange(selectedClass + "/" + selectedSubject + "/" + selectedTitle + "/" + selectedChapter.replace(/ /g, ''));
+        // console.log(selectedClass + "/" + selectedSubject + "/" + selectedTitle + "/" + selectedChapter.replace(/ /g, ''));
     };
 
     return (

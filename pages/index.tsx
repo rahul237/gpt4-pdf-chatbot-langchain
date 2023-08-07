@@ -19,6 +19,7 @@ export default function Home() {
   const [query, setQuery] = useState<string>('');
   const [loading, setLoading] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
+  const [selectedNamespace, setSelectedNamespace] = useState(null);
   const [messageState, setMessageState] = useState<{
     messages: Message[];
     pending?: string;
@@ -54,6 +55,8 @@ export default function Home() {
       return;
     }
 
+    console.log(selectedNamespace);
+
     const question = query.trim();
 
     setMessageState((state) => ({
@@ -79,6 +82,7 @@ export default function Home() {
         body: JSON.stringify({
           question,
           history,
+          namespace: selectedNamespace,
         }),
       });
       const data = await response.json();
@@ -131,7 +135,7 @@ export default function Home() {
           </h1>
           <div>
           {/* <Dropdown></Dropdown> */}
-          <DropdownComponent></DropdownComponent>
+          <DropdownComponent onNamespaceChange = {setSelectedNamespace}></DropdownComponent>
         </div>
           <main className={styles.main}>
             <div className={styles.cloud}>
