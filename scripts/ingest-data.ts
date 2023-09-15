@@ -10,7 +10,7 @@ import { DirectoryLoader } from 'langchain/document_loaders/fs/directory';
    Make sure to add your PDF files inside the 'docs' folder
 */
 // const filePath = 'docs';
-const filePath = 'docs/classes/8/hesc1dd/2';
+const filePath = 'docs/law';
 
 
 export const run = async () => {
