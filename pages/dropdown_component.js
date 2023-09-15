@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import data from '../nested_data/nested_data_with_chapters.json';
+import namespaces from '../nested_data/namespaces.json';
 
 
 function DropdownComponent(props) {
@@ -42,6 +43,8 @@ function DropdownComponent(props) {
         console.log(selectedSubject);
         console.log(selectedTitle);
         console.log(selectedChapter);
+        console.log(selectedClass + "/" + selectedSubject + "/" + selectedTitle + "/" + selectedChapter.replace(/ /g, ''));
+        console.log(namespaces[selectedClass + "/" + selectedSubject + "/" + selectedTitle + "/" + selectedChapter.replace(/ /g, '')]);
         props.onNamespaceChange(selectedClass + "/" + selectedSubject + "/" + selectedTitle + "/" + selectedChapter.replace(/ /g, ''));
         // console.log(selectedClass + "/" + selectedSubject + "/" + selectedTitle + "/" + selectedChapter.replace(/ /g, ''));
     };
