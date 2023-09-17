@@ -1371,55 +1371,18 @@
                 ]
             }
         ],
-        "Urdu": [
+        "Fine Art": [
             {
-                "title": "Nai Awaz",
+                "title": "An Introduction to Indian Art Part-I",
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Dhanak",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Gulistan e Adab",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Khyabane Urdu",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
-        "Creative Writing and Translation": [
-            {
-                "title": "Srijan",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Takhleequi Jauhar",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8"
                 ]
             }
         ],
@@ -1429,7 +1392,12 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8"
                 ]
             }
         ],
@@ -1439,7 +1407,16 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12"
                 ]
             }
         ],
@@ -1449,7 +1426,15 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11"
                 ]
             }
         ],
@@ -1459,7 +1444,15 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11"
                 ]
             }
         ],
@@ -1469,25 +1462,15 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
-        "Sangeet": [
-            {
-                "title": "Tabla evam Pakhawaj",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Hindustani Sangeet Gayan Evam Vadan",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9"
+
+
                 ]
             }
         ]
@@ -1499,7 +1482,8 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4"
                 ]
             },
             {
@@ -1507,23 +1491,10 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Lekhashastra Part-I",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Lekhashastra Part-II",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6"
                 ]
             },
             {
@@ -1531,23 +1502,8 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Khatadari-I(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Khatadari-II(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4"
                 ]
             }
         ],
@@ -1557,7 +1513,10 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6"
                 ]
             },
             {
@@ -1565,55 +1524,11 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Ganit-I",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Ganit-II",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Riyazi-I",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Riyazi-II",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Exemplar Problems(English)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Exemplar Problems(Hindi)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7"
                 ]
             }
         ],
@@ -1623,7 +1538,13 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8"
+
                 ]
             },
             {
@@ -1631,113 +1552,10 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Bhautiki-I",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Bhautiki-II",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Tabiyaat-I",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Tabiyaat-II",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Examplar Prolems(English)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Examplar Problems(Hindi)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Lab Manual(English)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Lab Manual(Hindi)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
-        "Hindi": [
-            {
-                "title": "Antra",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Aroh",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Vitan",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Abhivyakti Aur Madhyam",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Antral Bhag 2",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6"
                 ]
             }
         ],
@@ -1745,17 +1563,48 @@
             {
                 "title": "Kaliedoscope",
                 "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Short Stories - Chapter 1",
+                    "Short Stories - Chapter 2",
+                    "Short Stories - Chapter 3",
+                    "Short Stories - Chapter 4",
+                    "Short Stories - Chapter 5",
+                    "Poetry - Chapter 1",
+                    "Poetry - Chapter 2",
+                    "Poetry - Chapter 3",
+                    "Poetry - Chapter 4",
+                    "Poetry - Chapter 5",
+                    "Poetry - Chapter 6",
+                    "Poetry - Chapter 7",
+                    "Poetry - Chapter 8",
+                    "Non Fiction - Chapter 1",
+                    "Non Fiction - Chapter 2",
+                    "Non Fiction - Chapter 3",
+                    "Non Fiction - Chapter 4",
+                    "Non Fiction - Chapter 5",
+                    "Non Fiction - Chapter 6",
+                    "Drama - Chapter 1",
+                    "Drama - Chapter 2"
+
+
+
                 ]
             },
             {
                 "title": "Flamingo",
                 "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Prose - Chapter 1",
+                    "Prose - Chapter 2",
+                    "Prose - Chapter 3",
+                    "Prose - Chapter 4",
+                    "Prose - Chapter 5",
+                    "Prose - Chapter 6",
+                    "Prose - Chapter 7",
+                    "Prose - Chapter 8",
+                    "Poetry - Chapter 1",
+                    "Poetry - Chapter 2",
+                    "Poetry - Chapter 3",
+                    "Poetry - Chapter 4",
+                    "Poetry - Chapter 5"
                 ]
             },
             {
@@ -1763,7 +1612,10 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6"
                 ]
             }
         ],
@@ -1773,23 +1625,17 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Jeev Vigyan",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Hayatiyaat",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13"
                 ]
             },
             {
