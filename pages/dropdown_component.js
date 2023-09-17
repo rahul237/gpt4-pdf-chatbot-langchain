@@ -44,8 +44,9 @@ function DropdownComponent(props) {
         console.log(selectedTitle);
         console.log(selectedChapter);
         console.log(selectedClass + "/" + selectedSubject + "/" + selectedTitle + "/" + selectedChapter.replace(/ /g, ''));
-        console.log(namespaces[selectedClass + "/" + selectedSubject + "/" + selectedTitle + "/" + selectedChapter.replace(/ /g, '')]);
-        props.onNamespaceChange(selectedClass + "/" + selectedSubject + "/" + selectedTitle + "/" + selectedChapter.replace(/ /g, ''));
+        let namespace = (namespaces[selectedClass + "/" + selectedSubject + "/" + selectedTitle + "/" + selectedChapter.replace(/ /g, '')]);
+        console.log(namespace);
+        props.onNamespaceChange(namespace);
         // console.log(selectedClass + "/" + selectedSubject + "/" + selectedTitle + "/" + selectedChapter.replace(/ /g, ''));
     };
 
