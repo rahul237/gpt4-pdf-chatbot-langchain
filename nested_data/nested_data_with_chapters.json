@@ -1,42 +1,5 @@
 {
-    "14": {
-        "English": [
-            {
-                "title": "Marigold",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Mridang",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Raindrops",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
-        "Vocational": [
-            {
-                "title": "Organic Farming",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ]
-    },
+
     "1": {
         "Mathematics": [
             {
@@ -1637,30 +1600,6 @@
                     "Chapter 12",
                     "Chapter 13"
                 ]
-            },
-            {
-                "title": "Human Ecology and Family Sciences Part I ",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Exemplar Problems",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Lab Manual(English)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
             }
         ],
         "History": [
@@ -1669,15 +1608,8 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Bharatiya Itihas ke kuchh Vishay-I",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4"
                 ]
             },
             {
@@ -1685,15 +1617,8 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Bharatiya Itihas ke kuchh Vishay-II ",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4"
                 ]
             },
             {
@@ -1701,39 +1626,8 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Bharatiya Itihas ke kuchh Vishay-III",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Tareekh-e-Hind ke Mauzuaat-I(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Tareekh-e-Hind ke Mauzuaat-II(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Tareekh-e-Hind ke Mauzuaat-III(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4"
                 ]
             }
         ],
@@ -1743,7 +1637,12 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8"
                 ]
             },
             {
@@ -1751,23 +1650,8 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Manav Bhugol Ke Mool Sidhant",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Bhugol main peryojnatmak pryogatmak karye",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4"
                 ]
             },
             {
@@ -1775,39 +1659,14 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Bharat log aur arthvyasastha(Bhugol)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Insani Jughrafia Ke Buniyadi Usool(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": " Hindustan Awam Aur Maishat(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": " Jughrafia Mein Aamli Kam(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9"
+
                 ]
             }
         ],
@@ -1817,23 +1676,11 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Manovigyan",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Nafsiat(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7"
                 ]
             }
         ],
@@ -1843,47 +1690,25 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7"
                 ]
             },
-            {
-                "title": "Bhartiya Samaj",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
+        
             {
                 "title": "Social Change and Development in India",
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Bharat main Samajik Parivartan aur Vikas",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Hindustani Samaj(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Hindustan Mein Samaji Tabdili Aur Taraqqi(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8"
                 ]
             }
         ],
@@ -1893,7 +1718,9 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5"
                 ]
             },
             {
@@ -1901,89 +1728,9 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Rasayan vigyan bhag I",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Rasayan vigyan bhag II",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Exemplar Problems",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Exemplar Problems(Hindi)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Lab Manual(English)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Lab Manual(Hindi)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Keemiya-I",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Keemiya-II",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
-        "Sanskrit": [
-            {
-                "title": "Bhaswati",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Shaswati",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5"
                 ]
             }
         ],
@@ -1993,15 +1740,13 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Samkalin Vishwa Rajniti",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8"
+
                 ]
             },
             {
@@ -2009,31 +1754,12 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Swatantra Bharat Mein Rajniti-II",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Aasri Alami Siyasat(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Azadi Ke Baad Hindustan Ki Siyasat(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8"
                 ]
             }
         ],
@@ -2043,7 +1769,11 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7"
                 ]
             },
             {
@@ -2051,23 +1781,11 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Manav Paristhitik avam Parivar Vigyan Bhag 1 ",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Manav Paristhitiki avam Parivar Vigyan Bhag 2",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7"
                 ]
             }
         ],
@@ -2077,7 +1795,9 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5"
                 ]
             },
             {
@@ -2085,39 +1805,9 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Vyashthi Arthshasrta",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Samashty Arthshastra Ek Parichay",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Juzvi Maashiyat ka Taruf(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Kulli Maashiyat Ka Taruf(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5"
                 ]
             }
         ],
@@ -2127,15 +1817,12 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Vyavasai Adhyan-I",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8"
                 ]
             },
             {
@@ -2145,143 +1832,23 @@
                     "Chapter 2",
                     "Chapter 3"
                 ]
-            },
-            {
-                "title": "Vyavasai Adhyan-II",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Karobari Uloom I(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Karobari Uloom II(Urdu)",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
             }
         ],
-        "Urdu": [
-            {
-                "title": "Gulistan-e- Adab",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Khayaban-e-Urdu",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Nai Awaz",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Dhanak",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
-        "Heritage Crafts": [
-            {
-                "title": "Craft Tradition Of India",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Hindustan me Dastkari Ki Riwayat",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Craft Tradition of India",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Bharatiya Hastkla Ki Paramparayen",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
-        "New Age Graphics Design": [
-            {
-                "title": "New Age Graphics Design",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
-        "Creative Writing & Translation": [
-            {
-                "title": "Srijan-II",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Takhleequi Jauhar",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
+
         "Fine Art": [
             {
                 "title": "An Introduction to Indian Art Part-II",
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Bhartiya Kala ka Itihaas Bhag 2",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8"
+
+
                 ]
             }
         ],
@@ -2291,7 +1858,17 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13"
                 ]
             }
         ],
@@ -2301,73 +1878,11 @@
                 "chapters": [
                     "Chapter 1",
                     "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ]
-    },
-    "13": {
-        "Hindi": [
-            {
-                "title": "Abhivyakti Aur Madhyam",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
-        "Sanskrit": [
-            {
-                "title": "Sanskrit Sahitya parichay",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
-        "Heritage Crafts": [
-            {
-                "title": "Exploring Craft Tradition of India",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Bhartiya Hastkala Parmparaon ki Khoj",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            }
-        ],
-        "Urdu": [
-            {
-                "title": "Zuban-O-Adab ki Tareekh",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Urdu Qwaid aur Insha",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
-                ]
-            },
-            {
-                "title": "Izhar Aur Zara-e-Izhar",
-                "chapters": [
-                    "Chapter 1",
-                    "Chapter 2",
-                    "Chapter 3"
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter7"
                 ]
             }
         ]
