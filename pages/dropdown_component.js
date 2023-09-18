@@ -78,7 +78,7 @@ function DropdownComponent(props) {
                 </select>
             )}
 
-            <button onClick={onSubmit}>Submit</button>
+           {selectedTitle && <button onClick={onSubmit}>Submit</button> }
         </div>
     );
 }
