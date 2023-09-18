@@ -137,6 +137,8 @@ export default function Home() {
           {/* <Dropdown></Dropdown> */}
           <DropdownComponent onNamespaceChange = {setSelectedNamespace}></DropdownComponent>
         </div>
+        {!selectedNamespace && <div>Please select a chapter to continue</div>}
+        {selectedNamespace && 
           <main className={styles.main}>
             <div className={styles.cloud}>
               <div ref={messageListRef} className={styles.messagelist}>
@@ -268,7 +270,7 @@ export default function Home() {
                 <p className="text-red-500">{error}</p>
               </div>
             )}
-          </main>
+          </main>}
         </div>
         <footer className="m-auto p-4">
           <a href="https://twitter.com/mayowaoshin">
