@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  basePath:'/talk',
   reactStrictMode: true,
   swcMinify: true,
   webpack(config) {

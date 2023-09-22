@@ -74,7 +74,7 @@ export default function Home() {
     setQuery('');
 
     try {
-      const response = await fetch('/api/chat', {
+      const response = await fetch('talk/api/chat', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
