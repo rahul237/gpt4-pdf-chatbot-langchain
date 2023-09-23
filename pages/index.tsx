@@ -130,14 +130,18 @@ export default function Home() {
     <>
       <Layout>
         <div className="mx-auto flex flex-col gap-4">
-          <h1 className="text-2xl font-bold leading-[1.1] tracking-tighter text-center">
+          <h1 className="text-2xl font-bold leading-[1.1] tracking-tighter text-center" style={{padding:"30px"}}>
             Chat With NCERT
           </h1>
           <div>
           {/* <Dropdown></Dropdown> */}
-          <DropdownComponent onNamespaceChange = {setSelectedNamespace}></DropdownComponent>
+          <DropdownComponent onNamespaceChange = {setSelectedNamespace} style={{padding:"30px"}}></DropdownComponent>
         </div>
-        {!selectedNamespace && <div>Please select a chapter to continue</div>}
+        {!selectedNamespace &&
+        <div style={{margin:"0 auto", color:"gray"}}>
+          Please select a chapter and click submit to continue
+          <Image src="/img1.png" alt='banner' width="300" height="300"/>
+        </div>}
         {selectedNamespace && 
           <main className={styles.main}>
             <div className={styles.cloud}>

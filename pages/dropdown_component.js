@@ -51,7 +51,7 @@ function DropdownComponent(props) {
     };
 
     return (
-        <div>
+        <div style={{display:"flex"}}>
             <select onChange={handleClassChange}>
                 <option value="">Select class</option>
                 {Object.keys(data).map((cls) => <option key={cls} value={cls}>{cls}</option>)}
@@ -78,7 +78,8 @@ function DropdownComponent(props) {
                 </select>
             )}
 
-           {selectedTitle && <button onClick={onSubmit}>Submit</button> }
+           {selectedTitle && <button onClick={onSubmit} style={{float: 'right', border: '1px solid #333', background: '#333', padding: '5px 10px', borderRadius: '10px', margin:'10px', color:'white'}}>Submit</button>
+ }
         </div>
     );
 }
