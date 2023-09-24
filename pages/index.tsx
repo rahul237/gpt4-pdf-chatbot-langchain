@@ -130,12 +130,12 @@ export default function Home() {
   
   return (
     <>
-      <Script
+      <Script id='gtag1'
         strategy="lazyOnload"
         src={`https://www.googletagmanager.com/gtag/js?id=G-77M94C5LNW`}
       />
 
-      <Script strategy="lazyOnload">
+      <Script strategy="lazyOnload" id='gtag2'>
         {`
                     window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
