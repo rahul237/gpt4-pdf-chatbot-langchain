@@ -130,21 +130,22 @@ export default function Home() {
   
   return (
     <>
+      <Script
+        strategy="lazyOnload"
+        src={`https://www.googletagmanager.com/gtag/js?id=G-77M94C5LNW`}
+      />
+
+      <Script strategy="lazyOnload">
+        {`
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                    gtag('config', 'G-77M94C5LNW', {
+                    page_path: window.location.pathname,
+                    });
+                `}
+      </Script>
     <Layout>
-    <Head>
-    <div className="container">
-    <Script src="https://www.googletagmanager.com/gtag/js?id=G-77M94C5LNW" />
-    <Script id="google-analytics">
-    {`
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    
-    gtag('config', 'G-77M94C5LNW');
-    `}
-    </Script>
-    </div>
-    </Head>
     
     <div className="mx-auto flex flex-col gap-4">
     <h1 className="text-2xl font-bold leading-[1.1] tracking-tighter text-center" style={{padding:"30px"}}>
@@ -157,7 +158,7 @@ export default function Home() {
     {!selectedNamespace &&
       <div style={{margin:"0 auto", color:"gray"}}>
       Please select a chapter and click submit to continue
-      <Image src={'https://lh3.googleusercontent.com/pw/ADCreHcFv6CrsLK54UtQqhz87Ukb2_5ZDmm6hcaeMRkqpMjfSVR0W0IM3LekHq_ZzKOubYuXDmVXZiZDT7jBsWhswsPhORrmHc9vtB989Z2HoFRwbJdF4OeC-34_PAL2qJy299frDP6HNErgNua42o9awN17rQIXg1Z07HUqO1T464FBltwujVod2N4XWVMNcT5HIaRnHVqjKL4zF_5sHCmhD6-Oq77LpKgIteNRvy7oGB605XSt0uRP6SYOIt_N8NSa2PDJyC6q0fzu_dV1oJK7S5jDwCcWIDTT_6x4YsLxyIo62HUEJ0TVTnrZEOsUst8q7RNLp3gHgl6shQeJztbFNQVBlaNNCzzYMUD-i3nk9Ik8q5aZ0Ap4dT-tnUAplk-Ia9BmjI1YbCMRob63Y9KuWDo4OvWw0_RfyOlt4NlkVeIpOTKbUuOeQo5lCfT4ZdVqZrfmW1nBH6gowJPLq8hzwUsUEtSFZ_H5EUWC7VJ_I9Mk24yWn-ZeRKbY2eZ0PF7Bk3fshv-LsAcigt5S50WrYF8-hjgIvW3q9PAKYRbuJKK3qgVeQ6F2CaRNMATYiYw2YQPvziV_jIBIaz_96q2lfIrkBJgkqgZUgDMp7mn5jVQ252LqNbSwMPEg3ZRwjFyjwWykEoMMBGj3S0CcVj5UiYYa0dl_BgK3IB_e8aSS1f4-xl2aOy9Rel7i5GKoowFJ3Mcp-Mxk8JrhwS6osvFyziCc9M3NoLbQJzgIuwGj6oGnpgANIXOgPGUVLXpVFsn2m9aT-2Vhw278WBRkp_fS0r_HVs2_c9Q_hwU4Hqr5WDhHHuANVxyjMis7UIZcQ7ZleDKQaIi6Y4rJuAiMJGUy1DlfF2ei3EWENFib6R3pq8fdM0Rk_PlMoPEeNXNYOeE4dnSzzja3mD-InPhLLCPH_W0tVcyiQT458EPrvzJM7-8VuWXPbn0EddH-UYehwLiwvW3GdajlDn9UDItvuv266ziRl8qhZ5PQ=w1024-h1024-s-no?authuser=0'} alt='banner' width="300" height="300" style={{margin:"auto"}}/>
+      <Image src={'https://ncertgpt.s3.amazonaws.com/img5.webp'} alt='banner' width="300" height="300" style={{margin:"auto"}}/>
       </div>}
       {selectedNamespace && 
         <main className={styles.main}>
