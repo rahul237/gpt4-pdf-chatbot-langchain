@@ -14,6 +14,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from '@/components/ui/accordion';
+import Script from 'next/script';
 
 export default function Home() {
   const [query, setQuery] = useState<string>('');
@@ -129,6 +130,18 @@ export default function Home() {
   return (
     <>
       <Layout>
+      <div className="container">
+      <Script src="https://www.googletagmanager.com/gtag/js?id=G-77M94C5LNW" />
+      <Script id="google-analytics">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+ 
+          gtag('config', 'G-77M94C5LNW');
+        `}
+      </Script>
+    </div>
         <div className="mx-auto flex flex-col gap-4">
           <h1 className="text-2xl font-bold leading-[1.1] tracking-tighter text-center" style={{padding:"30px"}}>
             Chat With NCERT
